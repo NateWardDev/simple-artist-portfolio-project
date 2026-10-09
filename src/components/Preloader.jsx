@@ -12,7 +12,7 @@ const Preloader = () => {
   return (
     <div className={`preloader-wrapper ${preloader ? "loaded" : ""}`}>
       <div className="container">
-        <h1 className={preloader ? "loaded" : ""}>Harley Myer Art</h1>
+        <h1 className={preloader ? "loaded" : ""}>Jane Smith Art</h1>
         <div className={`slide1 slide ${preloader ? "loaded" : ""}`}></div>
         <div className={`slide2 slide ${preloader ? "loaded" : ""}`}></div>
         <div className={`slide3 slide ${preloader ? "loaded" : ""}`}></div>
