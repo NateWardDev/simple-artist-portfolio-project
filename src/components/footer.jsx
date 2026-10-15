@@ -61,7 +61,7 @@ const Footer = () => {
         <div>
           <p>
             Website made by
-            <a href="https://natecward.com/" target="blank">
+            <a href="https://github.com/NateWardDev" target="blank">
               Nate Ward.
             </a>
           </p>
